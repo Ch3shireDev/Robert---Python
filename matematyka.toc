@@ -1,0 +1,6 @@
+\contentsline {section}{\numberline {1}Zadania}{1}
+\contentsline {subsection}{\numberline {1.1}Podzielno\IeC {\'s}\IeC {\'c} liczb}{4}
+\contentsline {subsection}{\numberline {1.2}Pr\IeC {\k e}dko\IeC {\'s}\IeC {\'c}, droga, czas}{5}
+\contentsline {subsection}{\numberline {1.3}Praca i czas potrzebny na jej wykonanie}{6}
+\contentsline {subsection}{\numberline {1.4}Zadania r\IeC {\'o}\IeC {\.z}ne}{7}
+\contentsline {subsection}{\numberline {1.5}Wielok\IeC {\k a}ty}{9}
