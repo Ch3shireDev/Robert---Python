@@ -15,6 +15,9 @@
 \usepackage{thmtools}
 \theoremstyle{definition}
 \newtheorem{zad}{Zadanie}
+\newtheorem{theorem}{Twierdzenie}
+\newtheorem{definition}{Definicja}
+\newtheorem{lemma}{Lemat}
 \renewcommand*{\proofname}{Rozwiązanie}
 
 \usepackage{fancyhdr}
@@ -33,7 +36,9 @@
 \maketitle
 \tableofcontents
 
+
 \section{Zadania}
+\subsection{Zabawy z liczbami}
 
 \begin{zad}
 Rok wydania dzieła Kopernika \textit{O obrotach ciał niebieskich} jest liczbą czterocyfrową, której suma cyfr wynosi 13, cyfra dziesiątek stanowi $80\%$ cyfry setek, a cyfra tysięcy jest 7 razy mniejsza od sumy jedności i dziesiątek. Znajdź tę datę.
@@ -172,26 +177,128 @@ Przy dzieleniu liczb $a, b, c$ przez $5$ otrzymujemy odpowiednio reszty: $1, 2, 
 \begin{zad}Znajdź wszystkie pary liczb naturalnych, z których największy wspólny dzielnik wynosi 13, a najmniejsza wspólna wielokrotność równa się 2002.Udowodnij, że jeżeli z dwóch liczb naturalych jedna przy dzieleniu przez 3 daje resztę 1, a druga resztę 2, to ich iloczyn przy dzieleniu przez 3 daje resztę 2.
 \end{zad}
 
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newpage
+\renewcommand*{\proofname}{Dowód}
+
+\section{Podstawowe twierdzenie arytmetyki}
+
+W tym miejscu dobrze będzie poświęcić chwilę na zbadanie natury liczb pierwszych:
+
+\begin{definition}
+Liczbą pierwszą nazywamy każdą liczbę naturalną większą od 1, która nie posiada dzielników innych niż 1 oraz siebie samej.
+\end{definition}
+
+Wyposażeni w definicję możemy teraz zbadać...
+
+\begin{theorem}[Podstawowe twierdzenie arytmetyki] Każdą liczbę naturalną większą od 1, nie będącą liczbą pierwszą, można jednoznacznie przedstawić w postaci iloczynu liczb pierwszych.
+\end{theorem}
+
+Dowód tego twierdzenia przebiegnie następująco - pokażemy że liczby naturalne możemy rozłożyć na iloczyn liczb pierwszych. Potem założymy, że znaleźliśmy dwa takie rozkłady. Wykażemy następnie, że obydwa te rozkłady składają się dokładnie z takich samych czynników - znaczy się, że istnieje tylko jeden rozkład na liczby pierwsze.
+
+Skąd jednak wiemy, że każdą liczbę możemy rozdzielić na zbiór liczb pierwszych? Otóż:
+
+\begin{lemma}
+Każda liczba naturalna większa od 1 posiada przynajmniej jeden dzielnik będący liczbą pierwszą.
+\end{lemma}
+\begin{proof}
+Wiemy, że każda liczba $n$ dzieli się na pewno przez samą siebie, więc zbiór dzielników nie jest pusty. Weźmy najmniejszy z dzielników, $d$. Załóżmy teraz że $d$ nie jest pierwszy, co przekreślałoby prawdziwość twierdzenia. Jednakowoż niepierwszość $d$ oznacza, że istnieje dzielnik $d$ mniejszy od $d$ i większy od $1$. Z drugiej strony, jeśli jakaś liczba dzieli $d$ to jednocześnie dzieli $n$ - zatem $d$ nie byłby wtedy najmniejszym z dzielników. Ów najmniejszy dzielnik (większy od $1$) musi być zatem liczbą pierwszą, w przeciwnym wypadku... nie jest najmniejszy!
+\end{proof}
+
+Teraz wystarczy zauważyć, że dowolna liczba $n$ podzielona przez jej dzielnik daje wynik mniejszy od $n$. Ponieważ siedzimy w liczbach naturalnych, istnieje skończona liczba elementów mniejszych od $n$ i większych od $1$. Powtarzając proces dzielenia na liczby pierwsze wystarczająco dużą liczbę razy w końcu zejdziemy do jedynki.
+
+Mamy zatem rozkład $n$ na zestaw liczb pierwszych. Nie wiemy jednak, czy to jedyny rozkład - może da się rozłożyć $n$ na dwa sposoby? Pokażemy że nie - ale do tego będziemy potrzebowali Lematu 2:
+
+\begin{lemma}
+Jeśli $a$ jest liczbą naturalną a $p$ jest liczbą pierwszą, to albo $p$ dzieli $a$, albo $a, p$ są względnie pierwsze, tj. $NWD(a,p)=1$.
+\end{lemma}
+\begin{proof}
+Istotnie, jeśli największy wspólny dzielnik jest większy niż 1 to oznacza to, że mamy liczbę dzielącą $p$ - a to może być tylko $p$.
+\end{proof}
+
+\begin{lemma}
+Jeśli $a$ oraz $b$ nie są podzielne przez $p$ to $ab$ również nie jest podzielne przez $p$.
+\end{lemma}
+
+\begin{proof}
+Załóżmy, że $ab$ dzieli się przez $p$: iloczyn $ab$ możemy zatem przedstawić jako:
+
+$$ab = p\cdot z.$$
+
+Oczywiście $pz$ dzieli się dalej przez $a$ oraz przez $b$. Zatem:
+
+$$\frac{pz}{a} = b.$$
+
+Ponieważ $p$ nie ma wspólnych dzielników z $a$, możemy to zamienić na:
+
+$$p\frac{z}{a} = b,$$
+
+gdzie, oczywiscie, $\frac za$ musi być liczbą naturalną. Jednak oznacza to, że $b$ dzieli się przez $p$, co przeczy założeniom. Zatem iloczyn $ab$ nie jest podzielny przez liczbę pierwszą $p$.
+\end{proof}
+
+
+Teraz możemy przeprowadzić faktyczny dowód podstawowego twierdzenia algebry. Otóż, załóżmy że mamy dwa rozkłady na liczby pierwsze:
+
+$$n = p_1p_2...p_n,$$
+$$n = q_1q_2...q_m,$$
+
+gdzie $p_i, q_i$ są liczbami pierwszymi. Dla porządku wszystkie czynniki są poustawiane od najniższego do najwyższego. Jeśli $p_1$ dzieli $n$, to $p_1$ musi dzielić któryś z $q_i$ - może to się zdarzyć tylko wtedy, jeśli któryś z $q_i$ jest równy $p_1$. Odwrotna relacja również zachodzi. Bycie dzielnikiem liczby pierwszej (większym niż 1) oznacza bycie tą liczbą pierwszą. Ponieważ $p_1$ jest najmniejszym dzielnikiem (a zarazem najmniejszym elementem) z liczb $q_i$ oraz $q_1$ jest najmniejszym elementem z $p_i$, to $q_1 = p_1$.
+
+Podzielmy zatem obydwa równania przez $p_1$. Mamy teraz identyczną sytuację:
+
+$$m = p_2p_3...p_n,$$
+$$m = q_2q_3...q_m.$$
+
+Jeśli ilość dzielników jest taka sama, prowadzi to do wniosku, że dzielniki są identyczne. Jeśli ilość dzielników jest różna, to w którymś momencie dochodzimy do kuriozalnego wniosku, że:
+
+$$p_r\cdot p_{r+1}\cdot...p_{r+q} = 1,$$
+
+tj. iloczyn liczb pierwszych jest równy jedynce. To jest oczywiście niemożliwe\footnote{W przypadku nieskończonego zbioru liczb naturalnych.}. Ilości liczb pierwszych w obydwu przypadkach muszą być zatem równe, a co więcej, muszą to być te same liczby pierwsze.
+\renewcommand*{\proofname}{Rozwiązanie}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Powrót do zadań}
+
 \begin{zad}
 Wykaż, że dla dowolnych liczb naturalnych a i b prawdziwa jest następująca równość:
-$$a\cdot b = \text{NWD}(a,b)\cdot\text{NWW}(a,b).$$
+\begin{equation}
+a\cdot b = \text{NWD}(a,b)\cdot\text{NWW}(a,b).\label{nww}
+\end{equation}
 \end{zad}
 
-%\begin{proof}
-%Największy wspólny dzielnik $x$ dwóch liczb pozwala na rozłożenie dwóch liczb na czynniki:
-%
-%$$a = x\cdot p_1,$$
-%$$b = x\cdot p_2.$$
-%
-%Niech $y$ oznacza  najmniejszą wspólną wielokrotność. Wtedy według założeń zadania:
-%
-%$$a\cdot b = x\cdot y$$
-%$$x\cdot p_1\cdot x\cdot p_2 = x \cdot y$$
-%$$ x\cdot p_1\cdot p_2 = y$$
-%
-%Faktycznie, $y$ jest wielokrotnością zarówno $a$ jak i $b$. Nie wiemy jednak, czy nie istniałaby inna kombinacja
-%
-%\end{proof}
+\begin{proof}
+$a$ oraz $b$ można rozłożyć na iloczyny liczb pierwszych:
+
+\begin{align*}
+a &= p_1p_2\cdot...\cdot p_n,\\
+b &= r_1r_2\cdot...\cdot r_m,
+\end{align*}
+gdzie $p_i, r_i$ są liczbami pierwszymi (lub $1$ w przypadku $a$ lub $b$ równych $1$). Najmniejsza wspólna wielokrotność musi oczywiście zawierać wszystkie liczby $p_i$ oraz $r_i$. Jeśli żadna z liczb $p_i$ nie powtarza się w zbiorze $r_i$, sprawa jest prosta - najmniejsza wspólna wielokrotność to iloczyn liczb $a\cdot b$, podczas gdy największy wspólny dzielnik to 1. Równanie \ref{nww} jest zachowane. 
+
+Załóżmy teraz, że część z liczb $p_i$ powtarza się wśród liczb $r_i$. Dla przykładu:
+
+$$a = p_1p_2p_3,$$
+$$b = p_1p_2r_3,$$
+
+albo, aby już przedstawić przykład w zupełnie żywy sposób:
+
+$$a = 2\cdot 3\cdot 5 = 30,$$
+$$b = 2\cdot 3\cdot 7 = 42.$$
+
+Jeśli chcemy stworzyć teraz wielokrotność zarówno $a$ jak i $b$, \textbf{muszą} się w niej pojawić czynniki $2, 3, 5$ oraz $7$. Najmniejszą wspólną wielokrotność uzyskamy wtedy, gdy użyjemy tych czynników najmniejszą możliwą ilość razy - w tym wypadku:
+
+$$NWW(a,b) = p_1p_2p_3 r_3.$$
+
+Ok, co natomiast ze wzorem \ref{nww}? Otóż jeśli chcemy iloczyn $a\cdot b$ zamienić na $NWW$, musimy wyrugować z iloczynu liczb powtarzające się elementy. W tym wypadku będą to $p_1, p_2$:
+
+$$a\cdot b = p_1p_2p_3p_1p_2r_3 = (p_1p_2)(p_1p_2p_3r_3).$$
+
+Iloczyn powtarzających się elementów pierwszych jest - z założenia - największym wspólnym dzielnikiem liczb $a$ oraz $b$.
+
+\end{proof}
 
 \begin{zad}
 Znajdź takie dwie liczby naturalne, których suma jest równa $696$, a jednym ze wspólnych dzielników jest $58$.

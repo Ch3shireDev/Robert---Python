@@ -1,14 +1,14 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2017.5.12)  15 SEP 2017 17:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.9.22)  22 SEP 2017 17:05
 entering extended mode
- \write18 enabled.
+ restricted \write18 enabled.
  %&-line parsing enabled.
 **./matematyka.tex
 (./matematyka.tex
-LaTeX2e <2017/01/01> patch level 3
-Babel <3.9r> and hyphenation patterns for 7 language(s) loaded.
-(d:/texlive/2016/texmf-dist/tex/latex/base/article.cls
+LaTeX2e <2017-04-15>
+Babel <3.13> and hyphenation patterns for 84 language(s) loaded.
+(d:/texlive/2017/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-(d:/texlive/2016/texmf-dist/tex/latex/base/size11.clo
+(d:/texlive/2017/texmf-dist/tex/latex/base/size11.clo
 File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -23,19 +23,19 @@ File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(d:/texlive/2016/texmf-dist/tex/latex/base/inputenc.sty
+(d:/texlive/2017/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
 
-(d:/texlive/2016/texmf-dist/tex/latex/base/utf8.def
+(d:/texlive/2017/texmf-dist/tex/latex/base/utf8.def
 File: utf8.def 2017/01/28 v1.1t UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-(d:/texlive/2016/texmf-dist/tex/latex/base/t1enc.dfu
+(d:/texlive/2017/texmf-dist/tex/latex/base/t1enc.dfu
 File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -276,7 +276,7 @@ File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-(d:/texlive/2016/texmf-dist/tex/latex/base/ot1enc.dfu
+(d:/texlive/2017/texmf-dist/tex/latex/base/ot1enc.dfu
 File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -317,7 +317,7 @@ File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-(d:/texlive/2016/texmf-dist/tex/latex/base/omsenc.dfu
+(d:/texlive/2017/texmf-dist/tex/latex/base/omsenc.dfu
 File: omsenc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -341,70 +341,69 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-(d:/texlive/2016/texmf-dist/tex/latex/polski/polski.sty
-Package: polski 2008/02/24 v1.3.3 Polish language package
+(d:/texlive/2017/texmf-dist/tex/latex/polski/polski.sty
+Package: polski 2017/05/04 v1.3.4 Polish language package
 
-Document language package `polski' v1.3.3 <2008/02/24>
    Inputenc package detected. Catcodes not changed.
    Switching to Polish text encoding and Polish maths fonts.
-(d:/texlive/2016/texmf-dist/tex/latex/base/ot4enc.def
-File: ot4enc.def 2017/02/22 v2.0g Standard LaTeX file
+(d:/texlive/2017/texmf-dist/tex/latex/base/ot4enc.def
+File: ot4enc.def 2017/04/05 v2.0i Standard LaTeX file
 Now handling font encoding OT4 ...
 ... no UTF-8 mapping file for font encoding OT4
 )
-LaTeX Font Info:    Try loading font information for OT4+cmr on input line 346.
+LaTeX Font Info:    Try loading font information for OT4+cmr on input line 360.
 
 
-(d:/texlive/2016/texmf-dist/tex/latex/polski/ot4cmr.fd
+(d:/texlive/2017/texmf-dist/tex/latex/polski/ot4cmr.fd
 File: ot4cmr.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT4/cmr/bx/n on input line 346.
+(Font)                  OT1/cmr/bx/n --> OT4/cmr/bx/n on input line 360.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT4/cmss/m/n on input line 346.
+(Font)                  OT1/cmss/m/n --> OT4/cmss/m/n on input line 360.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT4/cmr/m/it on input line 346.
+(Font)                  OT1/cmr/m/it --> OT4/cmr/m/it on input line 360.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT4/cmtt/m/n on input line 346.
+(Font)                  OT1/cmtt/m/n --> OT4/cmtt/m/n on input line 360.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT4/cmss/bx/n on input line 346.
+(Font)                  OT1/cmss/bx/n --> OT4/cmss/bx/n on input line 360.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT4/cmr/bx/it on input line 346.
+(Font)                  OT1/cmr/bx/it --> OT4/cmr/bx/it on input line 360.
 LaTeX Font Info:    Encoding `OT1' has changed to `OT4' for symbol font
-(Font)              `operators' in the math version `normal' on input line 346.
+(Font)              `operators' in the math version `normal' on input line 360.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT4/cmr/m/n on input line 346.
+(Font)                  OT1/cmr/m/n --> OT4/cmr/m/n on input line 360.
 LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
-(Font)                  OML/cmm/m/it --> OML/plm/m/it on input line 346.
+(Font)                  OML/cmm/m/it --> OML/plm/m/it on input line 360.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
-(Font)                  OMS/cmsy/m/n --> OMS/plsy/m/n on input line 346.
+(Font)                  OMS/cmsy/m/n --> OMS/plsy/m/n on input line 360.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
-(Font)                  OMX/cmex/m/n --> OMX/plex/m/n on input line 346.
+(Font)                  OMX/cmex/m/n --> OMX/plex/m/n on input line 360.
 LaTeX Font Info:    Encoding `OT1' has changed to `OT4' for symbol font
-(Font)              `operators' in the math version `bold' on input line 346.
+(Font)              `operators' in the math version `bold' on input line 360.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT4/cmr/bx/n on input line 346.
+(Font)                  OT1/cmr/bx/n --> OT4/cmr/bx/n on input line 360.
 LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
-(Font)                  OML/cmm/b/it --> OML/plm/b/it on input line 346.
+(Font)                  OML/cmm/b/it --> OML/plm/b/it on input line 360.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
-(Font)                  OMS/cmsy/b/n --> OMS/plsy/b/n on input line 346.
+(Font)                  OMS/cmsy/b/n --> OMS/plsy/b/n on input line 360.
 )
-(d:/texlive/2016/texmf-dist/tex/latex/geometry/geometry.sty
+(d:/texlive/2017/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-(d:/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+(d:/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
-(d:/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+(d:/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
-(d:/texlive/2016/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+(d:/texlive/2017/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-(d:/texlive/2016/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+(d:/texlive/2017/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count87
@@ -420,35 +419,27 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen110
 \Gm@dimlist=\toks17
 )
-(d:/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+(d:/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-(d:/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2016/10/09 v1.0u Standard LaTeX Graphics (DPC,SPQR)
+(d:/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-(d:/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+(d:/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(d:/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+(d:/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-(d:/texlive/2016/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
-
-(d:/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-(d:/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)
-\Gread@gobject=\count90
+(d:/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/06/24 v1.0g Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen111
 \Gin@req@width=\dimen112
 )
-(d:/texlive/2016/texmf-dist/tex/latex/booktabs/booktabs.sty
+(d:/texlive/2017/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2016/04/27 v1.618033 publication quality tables
 \heavyrulewidth=\dimen113
 \lightrulewidth=\dimen114
@@ -460,15 +451,15 @@ Package: booktabs 2016/04/27 v1.618033 publication quality tables
 \cmidrulesep=\dimen120
 \cmidrulekern=\dimen121
 \defaultaddspace=\dimen122
-\@cmidla=\count91
-\@cmidlb=\count92
+\@cmidla=\count90
+\@cmidlb=\count91
 \@aboverulesep=\dimen123
 \@belowrulesep=\dimen124
-\@thisruleclass=\count93
-\@lastruleclass=\count94
+\@thisruleclass=\count92
+\@lastruleclass=\count93
 \@thisrulewidth=\dimen125
 )
-(d:/texlive/2016/texmf-dist/tex/latex/tools/array.sty
+(d:/texlive/2017/texmf-dist/tex/latex/tools/array.sty
 Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
 \col@sep=\dimen126
 \extrarowheight=\dimen127
@@ -476,7 +467,7 @@ Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
 \extratabsurround=\skip43
 \backup@length=\skip44
 )
-(d:/texlive/2016/texmf-dist/tex/latex/paralist/paralist.sty
+(d:/texlive/2017/texmf-dist/tex/latex/paralist/paralist.sty
 Package: paralist 2017/01/22 v2.7 Extended list environments
 \pltopsep=\skip45
 \plpartopsep=\skip46
@@ -484,19 +475,19 @@ Package: paralist 2017/01/22 v2.7 Extended list environments
 \plparsep=\skip48
 \pl@lab=\toks19
 )
-(d:/texlive/2016/texmf-dist/tex/latex/tools/verbatim.sty
+(d:/texlive/2017/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks20
 \verbatim@line=\toks21
 \verbatim@in@stream=\read1
 )
-(d:/texlive/2016/texmf-dist/tex/latex/subfig/subfig.sty
+(d:/texlive/2017/texmf-dist/tex/latex/subfig/subfig.sty
 Package: subfig 2005/06/28 ver: 1.3 subfig package
 
-(d:/texlive/2016/texmf-dist/tex/latex/caption/caption.sty
+(d:/texlive/2017/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
 
-(d:/texlive/2016/texmf-dist/tex/latex/caption/caption3.sty
+(d:/texlive/2017/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 67.
 \captionmargin=\dimen128
@@ -507,49 +498,49 @@ Package caption3 Info: TeX engine: e-TeX on input line 67.
 \caption@parindent=\dimen133
 \caption@hangindent=\dimen134
 )
-\c@ContinuedFloat=\count95
+\c@ContinuedFloat=\count94
 )
-\c@KVtest=\count96
+\c@KVtest=\count95
 \sf@farskip=\skip49
 \sf@captopadj=\dimen135
 \sf@capskip=\skip50
 \sf@nearskip=\skip51
-\c@subfigure=\count97
-\c@subfigure@save=\count98
-\c@lofdepth=\count99
-\c@subtable=\count100
-\c@subtable@save=\count101
-\c@lotdepth=\count102
+\c@subfigure=\count96
+\c@subfigure@save=\count97
+\c@lofdepth=\count98
+\c@subtable=\count99
+\c@subtable@save=\count100
+\c@lotdepth=\count101
 \sf@top=\skip52
 \sf@bottom=\skip53
 )
-(d:/texlive/2016/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2016/11/05 v2.16a AMS math features
+(d:/texlive/2017/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2017/09/02 v2.17a AMS math features
 \@mathmargin=\skip54
 
 For additional information on amsmath, use the `?' option.
-(d:/texlive/2016/texmf-dist/tex/latex/amsmath/amstext.sty
+(d:/texlive/2017/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
 
-(d:/texlive/2016/texmf-dist/tex/latex/amsmath/amsgen.sty
+(d:/texlive/2017/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks22
 \ex@=\dimen136
 ))
-(d:/texlive/2016/texmf-dist/tex/latex/amsmath/amsbsy.sty
+(d:/texlive/2017/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen137
 )
-(d:/texlive/2016/texmf-dist/tex/latex/amsmath/amsopn.sty
+(d:/texlive/2017/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count103
+\inf@bad=\count102
 LaTeX Info: Redefining \frac on input line 213.
-\uproot@=\count104
-\leftroot@=\count105
+\uproot@=\count103
+\leftroot@=\count104
 LaTeX Info: Redefining \overline on input line 375.
-\classnum@=\count106
-\DOTSCASE@=\count107
+\classnum@=\count105
+\DOTSCASE@=\count106
 LaTeX Info: Redefining \ldots on input line 472.
 LaTeX Info: Redefining \dots on input line 475.
 LaTeX Info: Redefining \cdots on input line 596.
@@ -558,15 +549,15 @@ LaTeX Info: Redefining \cdots on input line 596.
 \big@size=\dimen138
 LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
-\macc@depth=\count108
-\c@MaxMatrixCols=\count109
+\macc@depth=\count107
+\c@MaxMatrixCols=\count108
 \dotsspace@=\muskip10
-\c@parentequation=\count110
-\dspbrk@lvl=\count111
+\c@parentequation=\count109
+\dspbrk@lvl=\count110
 \tag@help=\toks23
-\row@=\count112
-\column@=\count113
-\maxfields@=\count114
+\row@=\count111
+\column@=\count112
+\maxfields@=\count113
 \andhelp@=\toks24
 \eqnshift@=\dimen139
 \alignsep@=\dimen140
@@ -581,15 +572,15 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
 )
-(d:/texlive/2016/texmf-dist/tex/latex/float/float.sty
+(d:/texlive/2017/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count115
+\c@float@type=\count114
 \float@exts=\toks27
 \float@box=\box28
 \@float@everytoks=\toks28
 \@floatcapt=\box29
 )
-(d:/texlive/2016/texmf-dist/tex/latex/amscls/amsthm.sty
+(d:/texlive/2017/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2015/03/04 v2.20.2
 \thm@style=\toks29
 \thm@bodyfont=\toks30
@@ -601,29 +592,32 @@ Package: amsthm 2015/03/04 v2.20.2
 \thm@headsep=\skip59
 \dth@everypar=\toks34
 )
-(d:/texlive/2016/texmf-dist/tex/latex/thmtools/thmtools.sty
+(d:/texlive/2017/texmf-dist/tex/latex/thmtools/thmtools.sty
 Package: thmtools 2014/04/21 v66
 \thmt@toks=\toks35
-\c@thmt@dummyctr=\count116
+\c@thmt@dummyctr=\count115
 
-(d:/texlive/2016/texmf-dist/tex/latex/thmtools/thm-patch.sty
+(d:/texlive/2017/texmf-dist/tex/latex/thmtools/thm-patch.sty
 Package: thm-patch 2014/04/21 v66
 
-(d:/texlive/2016/texmf-dist/tex/latex/thmtools/parseargs.sty
+(d:/texlive/2017/texmf-dist/tex/latex/thmtools/parseargs.sty
 Package: parseargs 2014/04/21 v66
 \@parsespec=\toks36
 ))
-(d:/texlive/2016/texmf-dist/tex/latex/thmtools/thm-kv.sty
+(d:/texlive/2017/texmf-dist/tex/latex/thmtools/thm-kv.sty
 Package: thm-kv 2014/04/21 v66
 Package thm-kv Info: Theorem names will be uppercased on input line 40.
 
-(d:/texlive/2016/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+(d:/texlive/2017/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-(d:/texlive/2016/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+(d:/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(d:/texlive/2017/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 
-(d:/texlive/2016/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+(d:/texlive/2017/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
@@ -634,51 +628,55 @@ Package etexcmds Info: Could not find \expanded.
 ))
 Package thm-kv Info: kvsetkeys patch (v1.16 or later) on input line 156.
 )
-(d:/texlive/2016/texmf-dist/tex/latex/thmtools/thm-autoref.sty
+(d:/texlive/2017/texmf-dist/tex/latex/thmtools/thm-autoref.sty
 Package: thm-autoref 2014/04/21 v66
 
-(d:/texlive/2016/texmf-dist/tex/latex/thmtools/aliasctr.sty
+(d:/texlive/2017/texmf-dist/tex/latex/thmtools/aliasctr.sty
 Package: aliasctr 2014/04/21 v66
 
-(d:/texlive/2016/texmf-dist/tex/latex/carlisle/remreset.sty)))
-(d:/texlive/2016/texmf-dist/tex/latex/thmtools/thm-listof.sty
+(d:/texlive/2017/texmf-dist/tex/latex/carlisle/remreset.sty)))
+(d:/texlive/2017/texmf-dist/tex/latex/thmtools/thm-listof.sty
 Package: thm-listof 2014/04/21 v66
 )
-(d:/texlive/2016/texmf-dist/tex/latex/thmtools/thm-restate.sty
+(d:/texlive/2017/texmf-dist/tex/latex/thmtools/thm-restate.sty
 Package: thm-restate 2014/04/21 v66
 )
-(d:/texlive/2016/texmf-dist/tex/latex/thmtools/thm-amsthm.sty
+(d:/texlive/2017/texmf-dist/tex/latex/thmtools/thm-amsthm.sty
 Package: thm-amsthm 2014/04/21 v66
 \thmt@style@headstyle=\toks37
 ))
-\c@zad=\count117
+\c@zad=\count116
+\c@theorem=\count117
+\c@definition=\count118
+\c@lemma=\count119
 
-(d:/texlive/2016/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2016/09/06 3.8 Extensive control of page headers and footers
-\fancy@headwidth=\skip60
-\f@ncyO@elh=\skip61
-\f@ncyO@erh=\skip62
-\f@ncyO@olh=\skip63
-\f@ncyO@orh=\skip64
-\f@ncyO@elf=\skip65
-\f@ncyO@erf=\skip66
-\f@ncyO@olf=\skip67
-\f@ncyO@orf=\skip68
+(d:/texlive/2017/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip60
+\f@nch@O@elh=\skip61
+\f@nch@O@erh=\skip62
+\f@nch@O@olh=\skip63
+\f@nch@O@orh=\skip64
+\f@nch@O@elf=\skip65
+\f@nch@O@erf=\skip66
+\f@nch@O@olf=\skip67
+\f@nch@O@orf=\skip68
 )
-(d:/texlive/2016/texmf-dist/tex/latex/sectsty/sectsty.sty
+(d:/texlive/2017/texmf-dist/tex/latex/sectsty/sectsty.sty
 Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
 les
 )
-(d:/texlive/2016/texmf-dist/tex/latex/tocbibind/tocbibind.sty
+(d:/texlive/2017/texmf-dist/tex/latex/tocbibind/tocbibind.sty
 Package: tocbibind 2010/10/13 v1.5k extra ToC listings
 Package tocbibind Info: The document has section divisions on input line 50.
 
 
 Package tocbibind Note: Using section or other style headings.
 
-) (d:/texlive/2016/texmf-dist/tex/latex/tocloft/tocloft.sty
-Package: tocloft 2013/05/02 v2.3f parameterised ToC, etc., typesetting
-Package tocloft Info: The document has section divisions on input line 44.
+) (d:/texlive/2017/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has section divisions on input line 51.
 \cftparskip=\skip69
 \cftbeforetoctitleskip=\skip70
 \cftaftertoctitleskip=\skip71
@@ -719,20 +717,20 @@ Package tocloft Info: The document has section divisions on input line 44.
 ) (./matematyka.aux)
 \openout1 = `matematyka.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -767,20 +765,35 @@ LaTeX Font Info:    ... okay on input line 32.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(d:/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(d:/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count118
+\scratchcounter=\count120
 \scratchdimen=\dimen145
 \scratchbox=\box30
-\nofMPsegments=\count119
-\nofMParguments=\count120
+\nofMPsegments=\count121
+\nofMParguments=\count122
 \everyMPshowfont=\toks38
-\MPscratchCnt=\count121
+\MPscratchCnt=\count123
 \MPscratchDim=\dimen146
-\MPnumerator=\count122
-\makeMPintoPDFobject=\count123
+\MPnumerator=\count124
+\makeMPintoPDFobject=\count125
 \everyMPtoPDFconversion=\toks39
-) (d:/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+) (d:/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(d:/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(d:/texlive/2017/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(d:/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(d:/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+(d:/texlive/2017/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
@@ -788,26 +801,14 @@ Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(d:/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
-
-(d:/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
-
-(d:/texlive/2016/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
-Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-))
-(d:/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
-)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 38.
 Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 
-(d:/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(d:/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
@@ -815,36 +816,36 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Try loading font information for OML+plm on input line 33.
+LaTeX Font Info:    Try loading font information for OML+plm on input line 36.
 
-(d:/texlive/2016/texmf-dist/tex/latex/polski/omlplm.fd
+(d:/texlive/2017/texmf-dist/tex/latex/polski/omlplm.fd
 File: omlplm.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
-LaTeX Font Info:    Try loading font information for OMS+plsy on input line 33.
+LaTeX Font Info:    Try loading font information for OMS+plsy on input line 36.
 
 
-(d:/texlive/2016/texmf-dist/tex/latex/polski/omsplsy.fd
+(d:/texlive/2017/texmf-dist/tex/latex/polski/omsplsy.fd
 File: omsplsy.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
-LaTeX Font Info:    Try loading font information for OMX+plex on input line 33.
+LaTeX Font Info:    Try loading font information for OMX+plex on input line 36.
 
 
-(d:/texlive/2016/texmf-dist/tex/latex/polski/omxplex.fd
+(d:/texlive/2017/texmf-dist/tex/latex/polski/omxplex.fd
 File: omxplex.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <12> on input line 33.
+(Font)              <12> on input line 36.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <8> on input line 33.
+(Font)              <8> on input line 36.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <6> on input line 33.
+(Font)              <6> on input line 36.
 
 
 LaTeX Warning: No \author given.
 
-LaTeX Font Info:    Try loading font information for OT4+cmss on input line 34.
+LaTeX Font Info:    Try loading font information for OT4+cmss on input line 37.
 
-(d:/texlive/2016/texmf-dist/tex/latex/polski/ot4cmss.fd
+(d:/texlive/2017/texmf-dist/tex/latex/polski/ot4cmss.fd
 File: ot4cmss.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 ) (./matematyka.toc
 LaTeX Font Info:    External font `plex10' loaded for size
@@ -856,51 +857,73 @@ LaTeX Font Info:    External font `plex10' loaded for size
 
 [1
 
-{d:/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+{d:/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[2] [3] [4] [5] [6] [7] [8] <rys214.png, id=38, 97.86563pt x 94.10156pt>
-File: rys214.png Graphic file (type png)
+[2] [3] [4] [5]
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <9> on input line 259.
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <5> on input line 259.
+ [6]
 
+Package Fancyhdr Warning: \headheight is too small (13.59999pt): 
+ Make it at least 14.04654pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[7] [8] [9] [10] [11]
+<rys214.png, id=50, 97.86563pt x 94.10156pt>
+File: rys214.png Graphic file (type png)
 <use rys214.png>
-Package pdftex.def Info: rys214.png used on input line 406.
-(pdftex.def)             Requested size: 167.2989pt x 160.87367pt.
- [9 <./rys214.png>]
-<rys2121.png, id=43, 191.9672pt x 140.77594pt>
+Package pdftex.def Info: rys214.png  used on input line 513. on input line 513.
+
+Package pdftex.def Info: Requested size: 167.2989pt x 160.87367pt on input line
+ 513.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[12]
+<rys2121.png, id=55, 191.9672pt x 140.77594pt>
 File: rys2121.png Graphic file (type png)
- <use rys2121.png>
-Package pdftex.def Info: rys2121.png used on input line 456.
-(pdftex.def)             Requested size: 167.2989pt x 122.69316pt.
- [10 <./rys2121.png>] [11] (./matematyka.aux) ) 
+<use rys2121.png>
+Package pdftex.def Info: rys2121.png  used on input line 563. on input line 563
+.
+Package pdftex.def Info: Requested size: 167.2989pt x 122.69316pt on input line
+ 563.
+ [13 <./rys214.png>] [14 <./rys2121.png>] (./matematyka.aux) ) 
 Here is how much of TeX's memory you used:
- 5643 strings out of 494860
- 82673 string characters out of 6179054
- 156438 words of memory out of 5000000
- 8808 multiletter control sequences out of 15000+600000
- 14311 words of font info for 39 fonts, out of 8000000 for 9000
- 56 hyphenation exceptions out of 8191
+ 5661 strings out of 492990
+ 83129 string characters out of 6136334
+ 159265 words of memory out of 5000000
+ 9067 multiletter control sequences out of 15000+600000
+ 16598 words of font info for 45 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
  44i,11n,43p,685b,374s stack positions out of 5000i,500n,10000p,200000b,80000s
-{d:/texlive/2016/texmf-dist/font
-s/enc/dvips/pl/plmi.enc}{d:/texlive/2016/texmf-dist/fonts/enc/dvips/pl/plms.enc
-}{d:/texlive/2016/texmf-dist/fonts/enc/dvips/pl/plrm.enc}{d:/texlive/2016/texmf
--dist/fonts/enc/dvips/pl/plit.enc}<d:/texlive/2016/texmf-dist/fonts/type1/publi
-c/pl/plbx10.pfb><d:/texlive/2016/texmf-dist/fonts/type1/public/pl/plmi10.pfb><d
-:/texlive/2016/texmf-dist/fonts/type1/public/pl/plmi8.pfb><d:/texlive/2016/texm
-f-dist/fonts/type1/public/pl/plr10.pfb><d:/texlive/2016/texmf-dist/fonts/type1/
-public/pl/plr12.pfb><d:/texlive/2016/texmf-dist/fonts/type1/public/pl/plr17.pfb
-><d:/texlive/2016/texmf-dist/fonts/type1/public/pl/plr8.pfb><d:/texlive/2016/te
-xmf-dist/fonts/type1/public/pl/plsl10.pfb><d:/texlive/2016/texmf-dist/fonts/typ
-e1/public/pl/plss12.pfb><d:/texlive/2016/texmf-dist/fonts/type1/public/pl/plsy1
-0.pfb><d:/texlive/2016/texmf-dist/fonts/type1/public/pl/plsy8.pfb><d:/texlive/2
-016/texmf-dist/fonts/type1/public/pl/plti10.pfb>
-Output written on matematyka.pdf (11 pages, 205682 bytes).
+{d:/texlive/2017/
+texmf-dist/fonts/enc/dvips/pl/plms.enc}{d:/texlive/2017/texmf-dist/fonts/enc/dv
+ips/pl/plrm.enc}{d:/texlive/2017/texmf-dist/fonts/enc/dvips/pl/plmi.enc}{d:/tex
+live/2017/texmf-dist/fonts/enc/dvips/pl/plit.enc}<d:/texlive/2017/texmf-dist/fo
+nts/type1/public/pl/plbx10.pfb><d:/texlive/2017/texmf-dist/fonts/type1/public/p
+l/plmi10.pfb><d:/texlive/2017/texmf-dist/fonts/type1/public/pl/plmi8.pfb><d:/te
+xlive/2017/texmf-dist/fonts/type1/public/pl/plr10.pfb><d:/texlive/2017/texmf-di
+st/fonts/type1/public/pl/plr12.pfb><d:/texlive/2017/texmf-dist/fonts/type1/publ
+ic/pl/plr17.pfb><d:/texlive/2017/texmf-dist/fonts/type1/public/pl/plr6.pfb><d:/
+texlive/2017/texmf-dist/fonts/type1/public/pl/plr8.pfb><d:/texlive/2017/texmf-d
+ist/fonts/type1/public/pl/plr9.pfb><d:/texlive/2017/texmf-dist/fonts/type1/publ
+ic/pl/plsl10.pfb><d:/texlive/2017/texmf-dist/fonts/type1/public/pl/plss12.pfb><
+d:/texlive/2017/texmf-dist/fonts/type1/public/pl/plsy10.pfb><d:/texlive/2017/te
+xmf-dist/fonts/type1/public/pl/plsy8.pfb><d:/texlive/2017/texmf-dist/fonts/type
+1/public/pl/plti10.pfb>
+Output written on matematyka.pdf (14 pages, 232185 bytes).
 PDF statistics:
- 94 PDF objects out of 1000 (max. 8388607)
- 66 compressed objects within 1 object stream
+ 112 PDF objects out of 1000 (max. 8388607)
+ 79 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

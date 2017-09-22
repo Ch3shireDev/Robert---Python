@@ -1,6 +1,9 @@
 \contentsline {section}{\numberline {1}Zadania}{1}
-\contentsline {subsection}{\numberline {1.1}Podzielno\IeC {\'s}\IeC {\'c} liczb}{4}
-\contentsline {subsection}{\numberline {1.2}Pr\IeC {\k e}dko\IeC {\'s}\IeC {\'c}, droga, czas}{5}
-\contentsline {subsection}{\numberline {1.3}Praca i czas potrzebny na jej wykonanie}{6}
-\contentsline {subsection}{\numberline {1.4}Zadania r\IeC {\'o}\IeC {\.z}ne}{7}
-\contentsline {subsection}{\numberline {1.5}Wielok\IeC {\k a}ty}{9}
+\contentsline {subsection}{\numberline {1.1}Zabawy z liczbami}{1}
+\contentsline {subsection}{\numberline {1.2}Podzielno\IeC {\'s}\IeC {\'c} liczb}{4}
+\contentsline {section}{\numberline {2}Podstawowe twierdzenie arytmetyki}{5}
+\contentsline {section}{\numberline {3}Powr\IeC {\'o}t do zada\IeC {\'n}}{7}
+\contentsline {subsection}{\numberline {3.1}Pr\IeC {\k e}dko\IeC {\'s}\IeC {\'c}, droga, czas}{8}
+\contentsline {subsection}{\numberline {3.2}Praca i czas potrzebny na jej wykonanie}{10}
+\contentsline {subsection}{\numberline {3.3}Zadania r\IeC {\'o}\IeC {\.z}ne}{11}
+\contentsline {subsection}{\numberline {3.4}Wielok\IeC {\k a}ty}{12}
