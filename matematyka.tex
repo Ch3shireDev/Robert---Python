@@ -12,6 +12,8 @@
 \usepackage{amsmath}
 \usepackage{float}
 \usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{amsfonts}
 \usepackage{thmtools}
 \theoremstyle{definition}
 \newtheorem{zad}{Zadanie}
@@ -531,6 +533,18 @@ $$a+b + (r-a) + r-b = 2r$$
 ...co kończy dowód.
 \end{proof}
 
+\subsection{Trójkąty i okręgi}
+
+\begin{figure}
+\centering
+\includegraphics[width=0.8\linewidth]{circle1.png}
+\end{figure}
+
+\begin{figure}
+\centering
+\includegraphics[width=0.8\linewidth]{circle2.png}
+\end{figure}
+
 \begin{zad}
 W trójkącie ABC bok $|AB| = 8$ cm, bok $|AC = 10$ cm, a bok $|BC| = 12$ cm. Z punktu O (środka boku BC) zakreślono promieniem OB okrąg przeccinający bok AB w punkcie D i bok AC w punkcie E. Oblicz długość odcinków DB i EC.
 \end{zad}
@@ -576,4 +590,60 @@ W trójkącie ABC, którego obwód wynosi 50 cm i $|AC| = |BC|$, poprowadzono ś
 \begin{zad}
 W trójkąt prostokątny wpisano półokrąg tak, że jego średnica zawarta jest w przeciwprostokątnej i środek tego półokręgu dzieli przeciwprostokątną na odcinki o długościach 15 cm i 20 cm. Oblicz długość łuku zawartego między punktami styczności półokręgu z przyprostokątnymi.
 \end{zad}
+
+\section{Bukiety matematyczne}
+
+\subsection{Liczby niewymierne}
+
+\textbf{Liczbą wymierną} nazwiemy każdą liczbę dającą się zapisać w postaci $\frac ab$, gdzie $a, b\in\mathbb Z$ (\footnote{$a, b$ należą do liczb całkowitych - w szkole często miesza się oznaczenie $\mathbb Z$ z $\mathbb C$, które oznacza liczby zespolone. Tutaj będziemy trzymali się notacji akademickiej.}). Każdą liczbę nie dającą się zapisać w postaci ułamka $\frac ab$ wrzucimy zatem w zbiór liczb \textbf{niewymiernych}.
+
+Dowód niewymierności $\sqrt2$: załóżmy, że $\sqrt2$ jest równe $\frac ab$, spróbujemy znaleźć ich wartości. Mamy cztery możliwości:
+
+\begin{enumerate}
+\item $a$ oraz $b$ są nieparzyste,
+\item $a$ jest parzyste, $b$ jest nieparzyste,
+\item $a$ jest nieparzyste, $b$ jest parzyste,
+\item $a$ oraz $b$ są parzyste - w tym wypadku redukujemy przypadek do jednego z trzech poprzednich.
+\end{enumerate}
+
+Załóżmy że $a$ oraz $b$ są nieparzyste. Wtedy $a^2 = 2b^2$ (po podniesieniu równania $\sqrt 2 = \frac ab$ do kwadratu), co jednak prowadzi do sprzeczności, bowiem kwadrat liczby nieparzystej jest parzysty. Usuwamy pierwszą możliwość.
+
+Załóżmy zatem że $a$ jest parzyste a $b$ jest nieparzyste. $a$ możemy przedstawić jako $2\cdot x$. Po podniesieniu do kwadratu mamy $4x^2 = 2b^2$, co redukuje się do $2x^2=b^2$. Ponownie, założyliśmy nieparzystość $b$, więc przypadek jest sprzeczny.
+
+Ostatnia możliwość: $a$ jest nieparzyste, $b$ jest parzyste. Po podniesieniu do kwadratu równania $\sqrt 2 = \frac{a}{2x}$ dostajemy $a^2 = 8x^2$... ale $a$ miało być nieparzyste. Znowu sprzeczność.
+
+Przypadek czwarty możemy zredukować do jednego z trzech pozostałych, zatem nie ma co rozważać go osobno.
+
+\textbf{Zadanie dodatkowe:} Spróbuj udowodnić w analogiczny sposób niewymierność liczby $\sqrt3$.
+
+\subsection{Ułamki łańcuchowe}
+
+Istnieje pewien intrygujący sposób przedstawiania liczb, nazywany \textbf{ułamkiem łańcuchowym}:
+
+$$ x = a + \frac{1}{b+\frac{1}{c+\frac1{d+...}}}$$
+
+Dla każdej liczby wymiernej istnieje skończona reprezentacja tej postaci (czynniki $a,b,c,d$ są naturalne). Co interesujące, liczby niewymierne również można przedstawiać w tej formie - będzie ona jednak nieskończona. Każdy ułamek łańcuchowy postaci nieskończonej będzie liczbą niewymierną.\footnote{Dowód możemy przeprowadzić pokazując, że liczba kroków dla liczby wymiernej $\frac{a}{b}$ musi być skończona. Dlatego każda liczba o nieskończonej liczbie kroków nie będzie miała postaci $\frac ab$.}
+
+\begin{zad}
+Oblicz wartość wyrażenia:
+
+$$x = 1+\frac1{1+\frac1{1+1}}$$
+\end{zad}
+
+\begin{zad}
+Znajdź liczby naturalne $a,b,c,d$ spełniające równanie:
+
+$$\frac{151}{115}=a+\frac1{b+\frac1{c+\frac1d}}$$
+\end{zad}
+\begin{zad}
+Znajdź postać w reprezentacji ułamka łańcuchowego dla liczby $\frac{225}{157}$.
+\end{zad}
+
+\begin{zad}
+Znajdź reprezentację ułamka łańcuchowego dla $\sqrt{2}$.
+
+\textbf{Podpowiedź}: $\sqrt{2} = 1 + (\sqrt{2}-1) = 1+\frac1{1+\sqrt{2}}$.
+\end{zad}
+
+
 \end{document}

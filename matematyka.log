@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.9.22)  22 SEP 2017 17:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.9.22)  29 SEP 2017 14:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -592,6 +592,16 @@ Package: amsthm 2015/03/04 v2.20.2
 \thm@headsep=\skip59
 \dth@everypar=\toks34
 )
+(d:/texlive/2017/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(d:/texlive/2017/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
 (d:/texlive/2017/texmf-dist/tex/latex/thmtools/thmtools.sty
 Package: thmtools 2014/04/21 v66
 \thmt@toks=\toks35
@@ -717,20 +727,20 @@ Package tocloft Info: The document has section divisions on input line 51.
 ) (./matematyka.aux)
 \openout1 = `matematyka.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -816,34 +826,43 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Try loading font information for OML+plm on input line 36.
+LaTeX Font Info:    Try loading font information for OML+plm on input line 38.
 
 (d:/texlive/2017/texmf-dist/tex/latex/polski/omlplm.fd
 File: omlplm.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
-LaTeX Font Info:    Try loading font information for OMS+plsy on input line 36.
+LaTeX Font Info:    Try loading font information for OMS+plsy on input line 38.
 
 
 (d:/texlive/2017/texmf-dist/tex/latex/polski/omsplsy.fd
 File: omsplsy.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
-LaTeX Font Info:    Try loading font information for OMX+plex on input line 36.
+LaTeX Font Info:    Try loading font information for OMX+plex on input line 38.
 
 
 (d:/texlive/2017/texmf-dist/tex/latex/polski/omxplex.fd
 File: omxplex.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <12> on input line 36.
+(Font)              <12> on input line 38.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <8> on input line 36.
+(Font)              <8> on input line 38.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <6> on input line 36.
+(Font)              <6> on input line 38.
+LaTeX Font Info:    Try loading font information for U+msa on input line 38.
 
+(d:/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 38.
+
+(d:/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
 
 LaTeX Warning: No \author given.
 
-LaTeX Font Info:    Try loading font information for OT4+cmss on input line 37.
+LaTeX Font Info:    Try loading font information for OT4+cmss on input line 39.
 
 (d:/texlive/2017/texmf-dist/tex/latex/polski/ot4cmss.fd
 File: ot4cmss.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
@@ -866,9 +885,9 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [2] [3] [4] [5]
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <9> on input line 259.
+(Font)              <9> on input line 261.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <5> on input line 259.
+(Font)              <5> on input line 261.
  [6]
 
 Package Fancyhdr Warning: \headheight is too small (13.59999pt): 
@@ -880,50 +899,67 @@ Package Fancyhdr Warning: \headheight is too small (13.59999pt):
 <rys214.png, id=50, 97.86563pt x 94.10156pt>
 File: rys214.png Graphic file (type png)
 <use rys214.png>
-Package pdftex.def Info: rys214.png  used on input line 513. on input line 513.
+Package pdftex.def Info: rys214.png  used on input line 515. on input line 515.
 
 Package pdftex.def Info: Requested size: 167.2989pt x 160.87367pt on input line
- 513.
+ 515.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [12]
-<rys2121.png, id=55, 191.9672pt x 140.77594pt>
+<circle1.png, id=55, 648.4225pt x 832.10875pt>
+File: circle1.png Graphic file (type png)
+<use circle1.png>
+Package pdftex.def Info: circle1.png  used on input line 540. on input line 540
+.
+Package pdftex.def Info: Requested size: 334.60422pt x 429.39784pt on input lin
+e 540.
+<circle2.png, id=56, 630.355pt x 538.01pt>
+File: circle2.png Graphic file (type png)
+<use circle2.png>
+Package pdftex.def Info: circle2.png  used on input line 545. on input line 545
+.
+Package pdftex.def Info: Requested size: 334.60422pt x 285.58725pt on input lin
+e 545.
+ [13 <./rys214.png>] [14 <./circle1.png>]
+<rys2121.png, id=65, 191.9672pt x 140.77594pt>
 File: rys2121.png Graphic file (type png)
 <use rys2121.png>
-Package pdftex.def Info: rys2121.png  used on input line 563. on input line 563
+Package pdftex.def Info: rys2121.png  used on input line 577. on input line 577
 .
 Package pdftex.def Info: Requested size: 167.2989pt x 122.69316pt on input line
- 563.
- [13 <./rys214.png>] [14 <./rys2121.png>] (./matematyka.aux) ) 
+ 577.
+ [15 <./circle2.png> <./rys2121.png>] [16] [17] (./matematyka.aux) ) 
 Here is how much of TeX's memory you used:
- 5661 strings out of 492990
- 83129 string characters out of 6136334
- 159265 words of memory out of 5000000
- 9067 multiletter control sequences out of 15000+600000
- 16598 words of font info for 45 fonts, out of 8000000 for 9000
+ 5962 strings out of 492990
+ 86470 string characters out of 6136334
+ 159777 words of memory out of 5000000
+ 9347 multiletter control sequences out of 15000+600000
+ 19067 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  44i,11n,43p,685b,374s stack positions out of 5000i,500n,10000p,200000b,80000s
-{d:/texlive/2017/
-texmf-dist/fonts/enc/dvips/pl/plms.enc}{d:/texlive/2017/texmf-dist/fonts/enc/dv
-ips/pl/plrm.enc}{d:/texlive/2017/texmf-dist/fonts/enc/dvips/pl/plmi.enc}{d:/tex
-live/2017/texmf-dist/fonts/enc/dvips/pl/plit.enc}<d:/texlive/2017/texmf-dist/fo
-nts/type1/public/pl/plbx10.pfb><d:/texlive/2017/texmf-dist/fonts/type1/public/p
-l/plmi10.pfb><d:/texlive/2017/texmf-dist/fonts/type1/public/pl/plmi8.pfb><d:/te
-xlive/2017/texmf-dist/fonts/type1/public/pl/plr10.pfb><d:/texlive/2017/texmf-di
-st/fonts/type1/public/pl/plr12.pfb><d:/texlive/2017/texmf-dist/fonts/type1/publ
-ic/pl/plr17.pfb><d:/texlive/2017/texmf-dist/fonts/type1/public/pl/plr6.pfb><d:/
-texlive/2017/texmf-dist/fonts/type1/public/pl/plr8.pfb><d:/texlive/2017/texmf-d
-ist/fonts/type1/public/pl/plr9.pfb><d:/texlive/2017/texmf-dist/fonts/type1/publ
-ic/pl/plsl10.pfb><d:/texlive/2017/texmf-dist/fonts/type1/public/pl/plss12.pfb><
-d:/texlive/2017/texmf-dist/fonts/type1/public/pl/plsy10.pfb><d:/texlive/2017/te
-xmf-dist/fonts/type1/public/pl/plsy8.pfb><d:/texlive/2017/texmf-dist/fonts/type
-1/public/pl/plti10.pfb>
-Output written on matematyka.pdf (14 pages, 232185 bytes).
+{d:/texlive
+/2017/texmf-dist/fonts/enc/dvips/pl/plmi.enc}{d:/texlive/2017/texmf-dist/fonts/
+enc/dvips/pl/plms.enc}{d:/texlive/2017/texmf-dist/fonts/enc/dvips/pl/plrm.enc}{
+d:/texlive/2017/texmf-dist/fonts/enc/dvips/pl/plit.enc}<d:/texlive/2017/texmf-d
+ist/fonts/type1/public/amsfonts/symbols/msbm10.pfb><d:/texlive/2017/texmf-dist/
+fonts/type1/public/pl/plbx10.pfb><d:/texlive/2017/texmf-dist/fonts/type1/public
+/pl/plmi10.pfb><d:/texlive/2017/texmf-dist/fonts/type1/public/pl/plmi6.pfb><d:/
+texlive/2017/texmf-dist/fonts/type1/public/pl/plmi8.pfb><d:/texlive/2017/texmf-
+dist/fonts/type1/public/pl/plmi9.pfb><d:/texlive/2017/texmf-dist/fonts/type1/pu
+blic/pl/plr10.pfb><d:/texlive/2017/texmf-dist/fonts/type1/public/pl/plr12.pfb><
+d:/texlive/2017/texmf-dist/fonts/type1/public/pl/plr17.pfb><d:/texlive/2017/tex
+mf-dist/fonts/type1/public/pl/plr6.pfb><d:/texlive/2017/texmf-dist/fonts/type1/
+public/pl/plr8.pfb><d:/texlive/2017/texmf-dist/fonts/type1/public/pl/plr9.pfb><
+d:/texlive/2017/texmf-dist/fonts/type1/public/pl/plsl10.pfb><d:/texlive/2017/te
+xmf-dist/fonts/type1/public/pl/plss12.pfb><d:/texlive/2017/texmf-dist/fonts/typ
+e1/public/pl/plsy10.pfb><d:/texlive/2017/texmf-dist/fonts/type1/public/pl/plsy8
+.pfb><d:/texlive/2017/texmf-dist/fonts/type1/public/pl/plti10.pfb>
+Output written on matematyka.pdf (17 pages, 332664 bytes).
 PDF statistics:
- 112 PDF objects out of 1000 (max. 8388607)
- 79 compressed objects within 1 object stream
+ 137 PDF objects out of 1000 (max. 8388607)
+ 94 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
