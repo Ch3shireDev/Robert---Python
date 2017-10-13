@@ -17,6 +17,8 @@
 \usepackage{thmtools}
 \theoremstyle{definition}
 \newtheorem{zad}{Zadanie}
+\numberwithin{zad}{section}
+
 \newtheorem{theorem}{Twierdzenie}
 \newtheorem{definition}{Definicja}
 \newtheorem{lemma}{Lemat}
@@ -26,6 +28,7 @@
 \pagestyle{fancy}
 \renewcommand{\headrulewidth}{0pt}
 \usepackage{sectsty}
+\usepackage{float}
 \allsectionsfont{\sffamily\mdseries\upshape}
 \usepackage[nottoc,notlof,notlot]{tocbibind}
 \usepackage[titles,subfigure]{tocloft}
@@ -510,7 +513,7 @@ W kąt wpisano okrąg. Punkty styczności dzielą okrąg na dwa łuki w stosunku
 
 \begin{zad}
 
-\begin{figure}[h]
+\begin{figure}[H]
 \centering
 \includegraphics[width=0.4\linewidth]{rys214.png}
 \end{figure}
@@ -535,12 +538,12 @@ $$a+b + (r-a) + r-b = 2r$$
 
 \subsection{Trójkąty i okręgi}
 
-\begin{figure}
+\begin{figure}[H]
 \centering
 \includegraphics[width=0.8\linewidth]{circle1.png}
 \end{figure}
 
-\begin{figure}
+\begin{figure}[H]
 \centering
 \includegraphics[width=0.8\linewidth]{circle2.png}
 \end{figure}
@@ -548,6 +551,13 @@ $$a+b + (r-a) + r-b = 2r$$
 \begin{zad}
 W trójkącie ABC bok $|AB| = 8$ cm, bok $|AC| = 10$ cm, a bok $|BC| = 12$ cm. Z punktu O (środka boku BC) zakreślono promieniem OB okrąg przecinający bok AB w punkcie D i bok AC w punkcie E. Oblicz długość odcinków DB i EC.
 \end{zad}
+
+\begin{proof}
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.5\linewidth]{circle_triangle.png}
+\end{figure}
+\end{proof}
 
 \begin{zad}
 Suma długości boków AC i BC trójkąta ABC wynosi 20 cm. Miary kątów A i B są równe odpowiednio $30^\circ$ i $45^\circ$. Oblicz długości boków AC i BC.
@@ -644,13 +654,32 @@ Znajdź reprezentację ułamka łańcuchowego dla $\sqrt{2}$.
 
 \textbf{Podpowiedź}: $\sqrt{2} = 1 + (\sqrt{2}-1) = 1+\frac1{1+\sqrt{2}}$.
 \end{zad}
+\newpage
+\section{Geometria}
 
-%\section{Pojęcie funkcji}
-%\subsection{Wprowadzenie}
-%
-%Powiedzmy, że chcielibyśmy wprowadzić zorganizowany opis dla jakiegoś procesu - mamy obiekt który porusza się zgodnie z ustalonymi, choć nie do końca prostymi prawami, 
-%
-%\subsection{Definicja}
-%\subsection{Zadania}
+Na początek małe zadanie z trygonometrii:
+
+\begin{zad}
+Dane są długości dwóch przyległych boków trójkąta oraz kąt między nimi:
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.5\linewidth]{triangle.png}
+\end{figure}
+Oblicz pole trójkąta oraz długość trzeciego boku.
+\end{zad}
+
+\begin{zad}
+W trójkącie równobocznym geometryczny środek (będący równocześnie środkiem okręgu opisanego na trójkącie) dzieli wysokość na dwa odcinki. Udowodnij, że proporcja między tymi odcinkami jest równa $1:2$.
+\end{zad}
+
+\begin{zad}[Twierdzenie o kącie wpisanym] Udowodnij, że relacja pomiędzy kątami $CBA$ oraz $CDB$ ma się jak $2:1$.
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.5\linewidth]{circle.png}
+\end{figure}
+\end{zad}
+
+
 
 \end{document}

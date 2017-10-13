@@ -7,7 +7,8 @@
 \contentsline {subsection}{\numberline {3.2}Praca i czas potrzebny na jej wykonanie}{10}
 \contentsline {subsection}{\numberline {3.3}Zadania r\IeC {\'o}\IeC {\.z}ne}{11}
 \contentsline {subsection}{\numberline {3.4}Wielok\IeC {\k a}ty}{12}
-\contentsline {subsection}{\numberline {3.5}Tr\IeC {\'o}jk\IeC {\k a}ty i okr\IeC {\k e}gi}{13}
-\contentsline {section}{\numberline {4}Bukiety matematyczne}{16}
-\contentsline {subsection}{\numberline {4.1}Liczby niewymierne}{16}
+\contentsline {subsection}{\numberline {3.5}Tr\IeC {\'o}jk\IeC {\k a}ty i okr\IeC {\k e}gi}{14}
+\contentsline {section}{\numberline {4}Bukiety matematyczne}{17}
+\contentsline {subsection}{\numberline {4.1}Liczby niewymierne}{17}
 \contentsline {subsection}{\numberline {4.2}U\IeC {\l }amki \IeC {\l }a\IeC {\'n}cuchowe}{17}
+\contentsline {section}{\numberline {5}Geometria}{19}
