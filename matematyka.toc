@@ -1,14 +1,17 @@
-\contentsline {section}{\numberline {1}Zadania}{1}
-\contentsline {subsection}{\numberline {1.1}Zabawy z liczbami}{1}
-\contentsline {subsection}{\numberline {1.2}Podzielno\IeC {\'s}\IeC {\'c} liczb}{4}
-\contentsline {section}{\numberline {2}Podstawowe twierdzenie arytmetyki}{5}
-\contentsline {section}{\numberline {3}Powr\IeC {\'o}t do zada\IeC {\'n}}{7}
-\contentsline {subsection}{\numberline {3.1}Pr\IeC {\k e}dko\IeC {\'s}\IeC {\'c}, droga, czas}{8}
-\contentsline {subsection}{\numberline {3.2}Praca i czas potrzebny na jej wykonanie}{10}
-\contentsline {subsection}{\numberline {3.3}Zadania r\IeC {\'o}\IeC {\.z}ne}{11}
-\contentsline {subsection}{\numberline {3.4}Wielok\IeC {\k a}ty}{12}
-\contentsline {subsection}{\numberline {3.5}Tr\IeC {\'o}jk\IeC {\k a}ty i okr\IeC {\k e}gi}{14}
-\contentsline {section}{\numberline {4}Bukiety matematyczne}{17}
-\contentsline {subsection}{\numberline {4.1}Liczby niewymierne}{17}
-\contentsline {subsection}{\numberline {4.2}U\IeC {\l }amki \IeC {\l }a\IeC {\'n}cuchowe}{17}
-\contentsline {section}{\numberline {5}Geometria}{19}
+\contentsline {section}{\numberline {1}Zadania}{1}{section.1}
+\contentsline {subsection}{\numberline {1.1}Zabawy z liczbami}{1}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Podzielno\IeC {\'s}\IeC {\'c} liczb}{4}{subsection.1.2}
+\contentsline {section}{\numberline {2}Podstawowe twierdzenie arytmetyki}{5}{section.2}
+\contentsline {section}{\numberline {3}Powr\IeC {\'o}t do zada\IeC {\'n}}{7}{section.3}
+\contentsline {subsection}{\numberline {3.1}Pr\IeC {\k e}dko\IeC {\'s}\IeC {\'c}, droga, czas}{8}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Praca i czas potrzebny na jej wykonanie}{10}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Zadania r\IeC {\'o}\IeC {\.z}ne}{11}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Wielok\IeC {\k a}ty}{12}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}Tr\IeC {\'o}jk\IeC {\k a}ty i okr\IeC {\k e}gi}{14}{subsection.3.5}
+\contentsline {section}{\numberline {4}Bukiety matematyczne}{17}{section.4}
+\contentsline {subsection}{\numberline {4.1}Liczby niewymierne}{17}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}U\IeC {\l }amki \IeC {\l }a\IeC {\'n}cuchowe}{17}{subsection.4.2}
+\contentsline {section}{\numberline {5}Geometria}{19}{section.5}
+\contentsline {section}{\numberline {6}Konstrukcje geometryczne}{19}{section.6}
+\contentsline {subsection}{\numberline {6.1}Tr\IeC {\'o}jk\IeC {\k a}ty przystaj\IeC {\k a}ce}{20}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Zadania}{21}{subsection.6.2}

@@ -13,6 +13,7 @@
 \usepackage{float}
 \usepackage{amsthm}
 \usepackage{amssymb}
+\usepackage[hidelinks]{hyperref}
 \usepackage{amsfonts}
 \usepackage{thmtools}
 \theoremstyle{definition}
@@ -657,7 +658,19 @@ Znajdź reprezentację ułamka łańcuchowego dla $\sqrt{2}$.
 \newpage
 \section{Geometria}
 
-Na początek małe zadanie z trygonometrii:
+%\section{Liga zadaniowa}
+%
+%\subsection{Równania z wartością bezwzględną}
+%
+%
+%
+%\section{Teoria funkcji}
+%
+%Funkcją nazwiemy operację matematyczną przypisującą danej wartości wejściowej wartość wyjściową zgodnie z określoną regułą. I tyle! Tak prosta definicja pozwala na nałożenie całkiem dobrych ram na naszą teorię.
+%
+%Po pierwsze - niemożliwe jest, aby funkcja dla konkretnej wartości wejściowej (\textbf{argumentu}) zwracała różne wartości wyjściowe (\textbf{wartości funkcji}, albo po prostu: \textbf{wartości}).
+
+\section{Konstrukcje geometryczne}
 
 \begin{zad}
 Dane są długości dwóch przyległych boków trójkąta oraz kąt między nimi:
@@ -680,17 +693,106 @@ W trójkącie równobocznym geometryczny środek (będący równocześnie środk
 \end{figure}
 \end{zad}
 
-\section{Liga zadaniowa}
 
-\subsection{Równania z wartością bezwzględną}
+\subsection{Trójkąty przystające}
 
+%Cechy przystawania trójkątów:
+%
+%\begin{itemize}
+%\item Cecha BBB: bok-bok-bok. W trójkątach przystających długości trzech boków jednego trójkąta są odpowiednio równe długościom trzech boków drugiego trójkąta.
+%\begin{figure}[h]
+%\centering
+%\includegraphics[width=0.5\linewidth]{cecha-bbb.png}
+%\end{figure}
+%\item Cecha BKB: bok-kąt-bok. Jeśli miary dwóch boków i kąta między nimi w jednym trójkącie są równe odpowiednio miarom dwóch boków i kąta między nimi w drugim trójkącie, to trójkąty są przystające.
+%\begin{figure}[h]
+%\centering
+%\includegraphics[width=0.5\linewidth]{cecha-bkb.png}
+%\end{figure}
+%
+%\item Cecha KBK: kąt-bok-kąt. Jeżeli dwa kąty i bok między nimi w jednym trójkącie mają miary równe dwóm kątom i bokowi między nimi w drugim trójkącie, to trójkąty są przystające.
+%\begin{figure}[h]
+%\centering
+%\includegraphics[width=0.5\linewidth]{cecha-kbk.png}
+%\end{figure}
+%
+%\end{itemize}
 
+Trójkąty są przystające, jeśli istnieje izometria przekształcająca jeden z nich w drugi.\footnote{\url{http://www.naukowiec.org/wiedza/matematyka.html}}
 
-\section{Teoria funkcji}
+Cechy przystawania trójkątów:
+\begin{itemize}
+\item BBB. Jeśli trzy boki jednego trójkąta są odpowiednio równe trzem bokom drugiego trójkąta, to dwa trójkąty są przystające.
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.5\linewidth]{cecha-bbb.png}
+\end{figure}
+\item BKB. Jeśli dwa boki i kąt między nimi zawarty w jednym trójkącie są odpowiednio równe dwóm bokom i kątowi między tymi bokami w drugim trójkącie, to te dwa trójkąty są przystające.
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.5\linewidth]{cecha-bkb.png}
+\end{figure}
+\item KBK. Jeśli bok i dwa leżące przy nim kąty w jednym trójkącie są odpowiednio równe bokowi i dwóm leżącym przy nim kątom w drugim trójkącie, to te dwa trójkąty są przystające.
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.5\linewidth]{cecha-kbk.png}
+\end{figure}
 
-Funkcją nazwiemy operację matematyczną przypisującą danej wartości wejściowej wartość wyjściową zgodnie z określoną regułą. I tyle! Tak prosta definicja pozwala na nałożenie całkiem dobrych ram na naszą teorię.
+\end{itemize}
 
-Po pierwsze - niemożliwe jest, aby funkcja dla konkretnej wartości wejściowej (\textbf{argumentu}) zwracała różne wartości wyjściowe (\textbf{wartości funkcji}, albo po prostu: \textbf{wartości}).
+Przystawanie trójkątów ABC i DEF oznacza się zapisem: $\Delta ABC = \Delta DEF$.
+
+Figurami przystającymi nazywamy wszystkie figury, które mają taką samą liczbę boków, o takiej samej długości a kąty między nimi mają takie same wartości. Dlatego o figurach przystających mówimy, wtedy gdy jedna figura stanowi odbicie lustrzane drugiej lub wtedy, kiedy jedną można otrzymać za pomocą symetrii i skończonej liczby obrotów oraz przesunięć drugiej z nich. Figury te mają takie samo pole powierzchni i można nałożyć jedną na drugą.
+
+Podsumowując figury przystające są to takie same figury, mają taki sam kształt i wielkość są tylko przesunięte lub obrócone lub przesunięte i obrócone.
+
+Do rozwiązywania zadań przyda nam się powtórzenie jeszcze relacji kątów między prostymi:
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.5\linewidth]{474px-Katy_naprzemianlegle.png}
+\end{figure}
+
+\begin{itemize}
+\item Kąty naprzemianległe leżą po przeciwnych stronach prostej (pary 1 i 7 - naprzemianległe zewnętrzne, pary 4,6 oraz 3 i 5 - kąty naprzemianległe wewnętrzne). Jeśli proste p,q są równoległe, to kąty naprzemianległe są sobie równe.
+\item Kąty odpowiadające leżą po tej samej stronie prostej (pary (1,5), (4,8), (2,6), (3,7)). Jeżeli proste p,q są równoległe to kąty odpowiadające są sobie równe.
+\item Kąty jenostronnie wewnętrzne (pary (4,5) oraz (3,6) i kąty jenostronnie zewnętrzne (pary (1,8) oraz (2,7)). Jeśli proste p,q są równoległe to kąty jednostronnie wewnętrzne (oraz zewnętrzne) sumują się do $180^\circ$.
+\end{itemize}
+
+%\subsection{Konstrukcja dowodu}
+\subsection{Zadania}
+
+\begin{zad}
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=1\linewidth]{triforce.png}
+\end{figure}
+
+Punkty D, E, F są środkami boków trójkąta równoramiennego ABC. Boki trójkąta DEF są równoległe do odpowiednich boków trójkąta ABC. Uzasanij, że trójkąty EBF, DEF i DFC są przystające do trójkąta AED.
+\end{zad}
+\begin{proof}
+
+Zadanie dostarcza nam dodatkowych informacji które znacznie ułatwiają proces rozwiązywania.
+\begin{enumerate}
+\item Z warunków zadania wiemy, że odcinki DF oraz AB są do siebie równoległe. Z relacji kątów odpowiadających wiemy zatem, że:
+\begin{itemize}
+\item Kąt CFD jest równy kątowi FBE.
+%\item Kąt BFE jest równy kątowi FCD
+%\item Kąt ADE jest równy kątowi DCF
+\item Kąt CDF jest równy kątowi DAE.
+\end{itemize}
+\item Ponieważ odcinki DE oraz CB są do siebie równoległe, to z relacji kątów odpowiadających wiemy, że kąt ADE jest równy kątowi DCF. 
+\item Analogicznie znajdujemy równość kąta EFB z kątem DCF z równoległości EF oraz AC.
+\item Wiedząc, że suma kątów w trójkącie wynosi $180^\circ$ znajdujemy kąty DEA oraz FEB.
+\item Wiedząc że kąt półprosty ma miarę $180^\circ$ znajdujemy miary kątów w trójkącie DEF.
+\item Ponieważ punkty DEF są środkami boków, wiemy, że bok AD jest równy DC oraz CF jest równy FB. Z relacji trójkąta równoramiennego wiemy również że boki AC i CB są równe, zatem $|AD|=|DC|=|CF|=|FB|$.
+\item Z relacji KBK stwierdzamy, że trójkąty ADE, EFB oraz CDF są przystające.
+\item Z relacji BBB pomiędzy trójkątami ADE, EFB oraz CDF stwierdzamy, że $|DE| = |FB| = |EF| = |AD|$ oraz $|AE|=|EB|=|DF|$.
+\item Z relacji BBB wiemy, że jeśli trzy boki trójkąta EFD są równe trzem bokom trójkąta ADE to trójkąty są przystające.
+\end{enumerate}
+\end{proof}
+
 
 
 \end{document}
