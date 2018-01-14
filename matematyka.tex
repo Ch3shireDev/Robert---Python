@@ -16,6 +16,10 @@
 \usepackage[hidelinks]{hyperref}
 \usepackage{amsfonts}
 \usepackage{thmtools}
+\usepackage[final]{pdfpages}
+
+\setboolean{@twoside}{false}
+
 \theoremstyle{definition}
 \newtheorem{zad}{Zadanie}
 \numberwithin{zad}{section}
@@ -793,6 +797,44 @@ Zadanie dostarcza nam dodatkowych informacji które znacznie ułatwiają proces 
 \end{enumerate}
 \end{proof}
 
+\newpage
+\section{Egzamin próbny}
 
+\newcommand\cke[1]{
+\begin{figure}[h]
+\includepdf[pages=#1, offset=0 0, scale=0.7]{./egzaminy/cke8.pdf}
+\end{figure}
+\newpage
+}
 
+\cke2
+
+\cke4
+
+\cke6
+\cke8
+\cke{10}
+\cke{12}
+\cke{14}
+
+\renewcommand\cke[1]{
+
+\begin{figure}
+\centering
+\includegraphics[width=0.7\linewidth]{./egzaminy/zad#1.png}
+\end{figure}
+
+}
+
+\cke{17}
+\cke{18}
+\cke{19}
+\cke{20}
+\cke{21}
+\cke{22}
+
+\begin{figure}
+\centering
+\includegraphics[width=0.7\linewidth]{./egzaminy/mat1.png}
+\end{figure}
 \end{document}

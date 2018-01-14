@@ -15,3 +15,4 @@
 \contentsline {section}{\numberline {6}Konstrukcje geometryczne}{19}{section.6}
 \contentsline {subsection}{\numberline {6.1}Tr\IeC {\'o}jk\IeC {\k a}ty przystaj\IeC {\k a}ce}{20}{subsection.6.1}
 \contentsline {subsection}{\numberline {6.2}Zadania}{21}{subsection.6.2}
+\contentsline {section}{\numberline {7}Egzamin pr\IeC {\'o}bny}{23}{section.7}
