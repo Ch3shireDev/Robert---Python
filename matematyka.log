@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.9.22)  14 JAN 2018 13:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.9.22)  11 FEB 2018 14:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1119,7 +1119,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [11]
-<rys214.png, id=291, 97.86563pt x 94.10156pt>
+<rys214.png, id=296, 97.86563pt x 94.10156pt>
 File: rys214.png Graphic file (type png)
 <use rys214.png>
 Package pdftex.def Info: rys214.png  used on input line 523. on input line 523.
@@ -1134,7 +1134,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [12]
-<circle1.png, id=321, 648.4225pt x 832.10875pt>
+<circle1.png, id=326, 648.4225pt x 832.10875pt>
 File: circle1.png Graphic file (type png)
 <use circle1.png>
 Package pdftex.def Info: circle1.png  used on input line 548. on input line 548
@@ -1149,7 +1149,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [13 <./rys214.png>]
-<circle2.png, id=333, 630.355pt x 538.01pt>
+<circle2.png, id=338, 630.355pt x 538.01pt>
 File: circle2.png Graphic file (type png)
 <use circle2.png>
 Package pdftex.def Info: circle2.png  used on input line 553. on input line 553
@@ -1164,7 +1164,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [14 <./circle1.png>]
-<circle_triangle.png, id=340, 322.95656pt x 308.65312pt>
+<circle_triangle.png, id=345, 322.95656pt x 308.65312pt>
 File: circle_triangle.png Graphic file (type png)
 <use circle_triangle.png>
 Package pdftex.def Info: circle_triangle.png  used on input line 563. on input 
@@ -1179,7 +1179,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [15 <./circle2.png> <./circle_triangle.png>]
-<rys2121.png, id=351, 191.9672pt x 140.77594pt>
+<rys2121.png, id=356, 191.9672pt x 140.77594pt>
 File: rys2121.png Graphic file (type png)
 <use rys2121.png>
 Package pdftex.def Info: rys2121.png  used on input line 592. on input line 592
@@ -1208,14 +1208,14 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [18]
-<triangle.png, id=402, 353.82187pt x 261.97874pt>
+<triangle.png, id=407, 353.82187pt x 261.97874pt>
 File: triangle.png Graphic file (type png)
 <use triangle.png>
 Package pdftex.def Info: triangle.png  used on input line 684. on input line 68
 4.
 Package pdftex.def Info: Requested size: 209.12683pt x 154.84593pt on input lin
 e 684.
-<circle.png, id=403, 627.09282pt x 606.01407pt>
+<circle.png, id=408, 627.09282pt x 606.01407pt>
 File: circle.png Graphic file (type png)
 <use circle.png>
 Package pdftex.def Info: circle.png  used on input line 696. on input line 696.
@@ -1242,21 +1242,21 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 729.
-<cecha-bbb.png, id=419, 277.78781pt x 123.46124pt>
+<cecha-bbb.png, id=424, 277.78781pt x 123.46124pt>
 File: cecha-bbb.png Graphic file (type png)
 <use cecha-bbb.png>
 Package pdftex.def Info: cecha-bbb.png  used on input line 732. on input line 7
 32.
 Package pdftex.def Info: Requested size: 209.12683pt x 92.94608pt on input line
  732.
-<cecha-bkb.png, id=421, 277.78781pt x 123.46124pt>
+<cecha-bkb.png, id=426, 277.78781pt x 123.46124pt>
 File: cecha-bkb.png Graphic file (type png)
 <use cecha-bkb.png>
 Package pdftex.def Info: cecha-bkb.png  used on input line 737. on input line 7
 37.
 Package pdftex.def Info: Requested size: 209.12683pt x 92.94608pt on input line
  737.
-<cecha-kbk.png, id=422, 277.78781pt x 123.46124pt>
+<cecha-kbk.png, id=427, 277.78781pt x 123.46124pt>
 File: cecha-kbk.png Graphic file (type png)
 <use cecha-kbk.png>
 Package pdftex.def Info: cecha-kbk.png  used on input line 742. on input line 7
@@ -1271,14 +1271,14 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [20 <./cecha-bbb.png> <./cecha-bkb.png> <./cecha-kbk.png>]
-<474px-Katy_naprzemianlegle.png, id=436, 475.7775pt x 283.0575pt>
+<474px-Katy_naprzemianlegle.png, id=441, 475.7775pt x 283.0575pt>
 File: 474px-Katy_naprzemianlegle.png Graphic file (type png)
 <use 474px-Katy_naprzemianlegle.png>
 Package pdftex.def Info: 474px-Katy_naprzemianlegle.png  used on input line 757
 . on input line 757.
 Package pdftex.def Info: Requested size: 209.12683pt x 124.41609pt on input lin
 e 757.
-<triforce.png, id=437, 522.45187pt x 275.52937pt>
+<triforce.png, id=442, 522.45187pt x 275.52937pt>
 File: triforce.png Graphic file (type png)
 <use triforce.png>
 Package pdftex.def Info: triforce.png  used on input line 773. on input line 77
@@ -1303,7 +1303,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [22 <./triforce.png>]
-<./egzaminy/cke8.pdf, id=460, pagebox=cropbox, 597.55246pt x 845.07718pt>
+<./egzaminy/cke8.pdf, id=465, pagebox=cropbox, 597.55246pt x 845.07718pt>
 File: ./egzaminy/cke8.pdf Graphic file (type pdf)
 <use ./egzaminy/cke8.pdf>
 Package pdftex.def Info: ./egzaminy/cke8.pdf  used on input line 810. on input 
@@ -1316,7 +1316,7 @@ Package pdftex.def Info: ./egzaminy/cke8.pdf  used on input line 810. on input
 line 810.
 Package pdftex.def Info: Requested size: 597.551pt x 845.07512pt on input line 
 810.
-<./egzaminy/cke8.pdf, id=463, page=2, pagebox=cropbox, 597.55246pt x 845.07718p
+<./egzaminy/cke8.pdf, id=468, page=2, pagebox=cropbox, 597.55246pt x 845.07718p
 t>
 File: ./egzaminy/cke8.pdf Graphic file (type pdf)
 <use ./egzaminy/cke8.pdf, page 2>
@@ -1361,7 +1361,7 @@ Package pdftex.def Info: ./egzaminy/cke8.pdf  used on input line 812. on input
 line 812.
 Package pdftex.def Info: Requested size: 597.551pt x 845.07512pt on input line 
 812.
-<./egzaminy/cke8.pdf, id=532, page=4, pagebox=cropbox, 597.55246pt x 845.07718p
+<./egzaminy/cke8.pdf, id=537, page=4, pagebox=cropbox, 597.55246pt x 845.07718p
 t>
 File: ./egzaminy/cke8.pdf Graphic file (type pdf)
 <use ./egzaminy/cke8.pdf, page 4>
@@ -1406,7 +1406,7 @@ Package pdftex.def Info: ./egzaminy/cke8.pdf  used on input line 814. on input
 line 814.
 Package pdftex.def Info: Requested size: 597.551pt x 845.07512pt on input line 
 814.
-<./egzaminy/cke8.pdf, id=545, page=6, pagebox=cropbox, 597.55246pt x 845.07718p
+<./egzaminy/cke8.pdf, id=550, page=6, pagebox=cropbox, 597.55246pt x 845.07718p
 t>
 File: ./egzaminy/cke8.pdf Graphic file (type pdf)
 <use ./egzaminy/cke8.pdf, page 6>
@@ -1452,7 +1452,7 @@ Package pdftex.def Info: ./egzaminy/cke8.pdf  used on input line 815. on input
 line 815.
 Package pdftex.def Info: Requested size: 597.551pt x 845.07512pt on input line 
 815.
-<./egzaminy/cke8.pdf, id=567, page=8, pagebox=cropbox, 597.55246pt x 845.07718p
+<./egzaminy/cke8.pdf, id=572, page=8, pagebox=cropbox, 597.55246pt x 845.07718p
 t>
 File: ./egzaminy/cke8.pdf Graphic file (type pdf)
 <use ./egzaminy/cke8.pdf, page 8>
@@ -1497,7 +1497,7 @@ Package pdftex.def Info: ./egzaminy/cke8.pdf  used on input line 816. on input
 line 816.
 Package pdftex.def Info: Requested size: 597.551pt x 845.07512pt on input line 
 816.
-<./egzaminy/cke8.pdf, id=584, page=10, pagebox=cropbox, 597.55246pt x 845.07718
+<./egzaminy/cke8.pdf, id=589, page=10, pagebox=cropbox, 597.55246pt x 845.07718
 pt>
 File: ./egzaminy/cke8.pdf Graphic file (type pdf)
 <use ./egzaminy/cke8.pdf, page 10>
@@ -1542,7 +1542,7 @@ Package pdftex.def Info: ./egzaminy/cke8.pdf  used on input line 817. on input
 line 817.
 Package pdftex.def Info: Requested size: 597.551pt x 845.07512pt on input line 
 817.
-<./egzaminy/cke8.pdf, id=606, page=12, pagebox=cropbox, 597.55246pt x 845.07718
+<./egzaminy/cke8.pdf, id=611, page=12, pagebox=cropbox, 597.55246pt x 845.07718
 pt>
 File: ./egzaminy/cke8.pdf Graphic file (type pdf)
 <use ./egzaminy/cke8.pdf, page 12>
@@ -1587,7 +1587,7 @@ Package pdftex.def Info: ./egzaminy/cke8.pdf  used on input line 818. on input
 line 818.
 Package pdftex.def Info: Requested size: 597.551pt x 845.07512pt on input line 
 818.
-<./egzaminy/cke8.pdf, id=621, page=14, pagebox=cropbox, 597.55246pt x 845.07718
+<./egzaminy/cke8.pdf, id=626, page=14, pagebox=cropbox, 597.55246pt x 845.07718
 pt>
 File: ./egzaminy/cke8.pdf Graphic file (type pdf)
 <use ./egzaminy/cke8.pdf, page 14>
@@ -1620,56 +1620,48 @@ n input line 818.
 Package pdftex.def Info: Requested size: 418.28386pt x 591.55pt on input line 8
 18.
  [29 <./egzaminy/cke8.pdf>]
-<./egzaminy/zad17.png, id=628, 532.23843pt x 222.07968pt>
+<./egzaminy/zad17.png, id=633, 532.23843pt x 222.07968pt>
 File: ./egzaminy/zad17.png Graphic file (type png)
 <use ./egzaminy/zad17.png>
 Package pdftex.def Info: ./egzaminy/zad17.png  used on input line 829. on input
  line 829.
 Package pdftex.def Info: Requested size: 292.77629pt x 122.16452pt on input lin
 e 829.
-<./egzaminy/zad18.png, id=629, 535.2497pt x 121.20282pt>
+<./egzaminy/zad18.png, id=634, 535.2497pt x 121.20282pt>
 File: ./egzaminy/zad18.png Graphic file (type png)
 <use ./egzaminy/zad18.png>
 Package pdftex.def Info: ./egzaminy/zad18.png  used on input line 830. on input
  line 830.
 Package pdftex.def Info: Requested size: 292.77629pt x 66.29926pt on input line
  830.
-<./egzaminy/zad19.png, id=630, 548.80031pt x 207.02344pt>
+<./egzaminy/zad19.png, id=635, 548.80031pt x 207.02344pt>
 File: ./egzaminy/zad19.png Graphic file (type png)
 <use ./egzaminy/zad19.png>
 Package pdftex.def Info: ./egzaminy/zad19.png  used on input line 831. on input
  line 831.
 Package pdftex.def Info: Requested size: 292.77629pt x 110.44528pt on input lin
 e 831.
-<./egzaminy/zad20.png, id=631, 523.20468pt x 76.03406pt>
+<./egzaminy/zad20.png, id=636, 523.20468pt x 76.03406pt>
 File: ./egzaminy/zad20.png Graphic file (type png)
 <use ./egzaminy/zad20.png>
 Package pdftex.def Info: ./egzaminy/zad20.png  used on input line 832. on input
  line 832.
 Package pdftex.def Info: Requested size: 292.77629pt x 42.5486pt on input line 
 832.
-<./egzaminy/zad21.png, id=632, 527.72156pt x 196.48407pt>
+<./egzaminy/zad21.png, id=637, 527.72156pt x 196.48407pt>
 File: ./egzaminy/zad21.png Graphic file (type png)
 <use ./egzaminy/zad21.png>
 Package pdftex.def Info: ./egzaminy/zad21.png  used on input line 833. on input
  line 833.
 Package pdftex.def Info: Requested size: 292.77629pt x 109.00797pt on input lin
 e 833.
-<./egzaminy/zad22.png, id=633, 547.2947pt x 92.59593pt>
+<./egzaminy/zad22.png, id=638, 547.2947pt x 92.59593pt>
 File: ./egzaminy/zad22.png Graphic file (type png)
 <use ./egzaminy/zad22.png>
 Package pdftex.def Info: ./egzaminy/zad22.png  used on input line 834. on input
  line 834.
 Package pdftex.def Info: Requested size: 292.77629pt x 49.53479pt on input line
  834.
-<./egzaminy/mat1.png, id=634, 434.37282pt x 592.46344pt>
-File: ./egzaminy/mat1.png Graphic file (type png)
-<use ./egzaminy/mat1.png>
-Package pdftex.def Info: ./egzaminy/mat1.png  used on input line 838. on input 
-line 838.
-Package pdftex.def Info: Requested size: 292.77629pt x 399.35315pt on input lin
-e 838.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 840.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1678,30 +1670,47 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [30 <./egzaminy/zad17.png> <./egzaminy/zad18.png> <./egzaminy/zad19.png> <./egz
-aminy/zad20.png> <./egzaminy/zad21.png> <./egzaminy/zad22.png>]
+aminy/zad20.png> <./egzaminy/zad21.png>]
+<./egzaminy/mat1.png, id=648, 434.37282pt x 592.46344pt>
+File: ./egzaminy/mat1.png Graphic file (type png)
+<use ./egzaminy/mat1.png>
+Package pdftex.def Info: ./egzaminy/mat1.png  used on input line 838. on input 
+line 838.
+Package pdftex.def Info: Requested size: 292.77629pt x 399.35315pt on input lin
+e 838.
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.04654pt.
+ Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[31 <./egzaminy/mat1.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 840.
+[31 <./egzaminy/zad22.png> <./egzaminy/mat1.png>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 887.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[32]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 887.
  (./matematyka.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 840.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 840.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 887.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 887.
 Package rerunfilecheck Info: File `matematyka.out' has not changed.
-(rerunfilecheck)             Checksum: 629F8988BFA44D757E93EC957F3725A7;1131.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 840.
+(rerunfilecheck)             Checksum: 78AAD0A506A921F656D9C6B6172F341E;1176.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 887.
  ) 
 Here is how much of TeX's memory you used:
- 11041 strings out of 492990
- 162553 string characters out of 6136334
+ 11064 strings out of 492990
+ 162871 string characters out of 6136334
  262942 words of memory out of 5000000
- 14066 multiletter control sequences out of 15000+600000
+ 14067 multiletter control sequences out of 15000+600000
  19619 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,19n,43p,685b,506s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,19n,43p,685b,484s stack positions out of 5000i,500n,10000p,200000b,80000s
 {d:/texlive/2017/texmf-dist/fonts/enc/dvips/pl/pltt.enc}{d:/texlive/2017/texm
 f-dist/fonts/enc/dvips/pl/plmi.enc}{d:/texlive/2017/texmf-dist/fonts/enc/dvips/
 pl/plms.enc}{d:/texlive/2017/texmf-dist/fonts/enc/dvips/pl/plrm.enc}{d:/texlive
@@ -1721,10 +1730,10 @@ mf-dist/fonts/type1/public/pl/plsl10.pfb><d:/texlive/2017/texmf-dist/fonts/type
 .pfb><d:/texlive/2017/texmf-dist/fonts/type1/public/pl/plsy8.pfb><d:/texlive/20
 17/texmf-dist/fonts/type1/public/pl/plti10.pfb><d:/texlive/2017/texmf-dist/font
 s/type1/public/pl/pltt9.pfb>
-Output written on matematyka.pdf (31 pages, 936282 bytes).
+Output written on matematyka.pdf (32 pages, 939502 bytes).
 PDF statistics:
- 781 PDF objects out of 1000 (max. 8388607)
- 613 compressed objects within 7 object streams
- 290 named destinations out of 1000 (max. 500000)
- 350 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 813 PDF objects out of 1000 (max. 8388607)
+ 644 compressed objects within 7 object streams
+ 312 named destinations out of 1000 (max. 500000)
+ 358 words of extra memory for PDF output out of 10000 (max. 10000000)
 

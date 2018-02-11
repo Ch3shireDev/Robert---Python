@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.9.22)  9 DEC 2017 14:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.9.22)  11 FEB 2018 14:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -867,26 +867,81 @@ LaTeX Font Info:    Try loading font information for OT4+cmss on input line 41.
 
 (d:/texlive/2017/texmf-dist/tex/latex/polski/ot4cmss.fd
 File: ot4cmss.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
-) (./fizyka.toc)
+) (./fizyka.toc
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <10.95> on input line 1.
+)
 \tf@toc=\write3
 \openout3 = `fizyka.toc'.
 
+<./svt/zad1.png, id=1, 465.99094pt x 76.78688pt>
+File: ./svt/zad1.png Graphic file (type png)
+<use ./svt/zad1.png>
+Package pdftex.def Info: ./svt/zad1.png  used on input line 51. on input line 5
+1.
+Package pdftex.def Info: Requested size: 334.60422pt x 55.13887pt on input line
+ 51.
+<./svt/zad2.png, id=2, 462.97969pt x 106.89937pt>
+File: ./svt/zad2.png Graphic file (type png)
+<use ./svt/zad2.png>
+Package pdftex.def Info: ./svt/zad2.png  used on input line 55. on input line 5
+5.
+Package pdftex.def Info: Requested size: 334.60422pt x 77.25945pt on input line
+ 55.
+<./svt/zad3.png, id=3, 462.97969pt x 63.23625pt>
+File: ./svt/zad3.png Graphic file (type png)
+<use ./svt/zad3.png>
+Package pdftex.def Info: ./svt/zad3.png  used on input line 59. on input line 5
+9.
+Package pdftex.def Info: Requested size: 334.60422pt x 45.70277pt on input line
+ 59.
+<./svt/zad4.png, id=4, 452.4403pt x 88.07906pt>
+File: ./svt/zad4.png Graphic file (type png)
+<use ./svt/zad4.png>
+Package pdftex.def Info: ./svt/zad4.png  used on input line 63. on input line 6
+3.
+Package pdftex.def Info: Requested size: 334.60422pt x 65.13849pt on input line
+ 63.
 
 [1
 
-{d:/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <10.95> on input line 74.
-<przyspieszenia.png, id=10, 590.95781pt x 357.58594pt>
-File: przyspieszenia.png Graphic file (type png)
-<use przyspieszenia.png>
-Package pdftex.def Info: przyspieszenia.png  used on input line 110. on input l
-ine 110.
-Package pdftex.def Info: Requested size: 418.25368pt x 253.09116pt on input lin
-e 110.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
+{d:/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./svt/zad1.png>
+ <./svt/zad2.png>]
+<./svt/zad5.png, id=14, 444.91219pt x 57.21375pt>
+File: ./svt/zad5.png Graphic file (type png)
+<use ./svt/zad5.png>
+Package pdftex.def Info: ./svt/zad5.png  used on input line 67. on input line 6
+7.
+Package pdftex.def Info: Requested size: 334.60422pt x 43.02892pt on input line
+ 67.
+<./svt/zad6.png, id=15, 465.99094pt x 105.39375pt>
+File: ./svt/zad6.png Graphic file (type png)
+<use ./svt/zad6.png>
+Package pdftex.def Info: ./svt/zad6.png  used on input line 71. on input line 7
+1.
+Package pdftex.def Info: Requested size: 334.60422pt x 75.6808pt on input line 
+71.
+<./svt/kruczek1.png, id=16, 420.82219pt x 130.98938pt>
+File: ./svt/kruczek1.png Graphic file (type png)
+<use ./svt/kruczek1.png>
+Package pdftex.def Info: ./svt/kruczek1.png  used on input line 76. on input li
+ne 76.
+Package pdftex.def Info: Requested size: 334.60422pt x 104.15404pt on input lin
+e 76.
+<./svt/kruczek2.png, id=17, 406.51875pt x 85.06781pt>
+File: ./svt/kruczek2.png Graphic file (type png)
+<use ./svt/kruczek2.png>
+Package pdftex.def Info: ./svt/kruczek2.png  used on input line 81. on input li
+ne 81.
+Package pdftex.def Info: Requested size: 334.60422pt x 70.02084pt on input line
+ 81.
+<./svt/kruczek3.png, id=18, 427.5975pt x 112.92188pt>
+File: ./svt/kruczek3.png Graphic file (type png)
+<use ./svt/kruczek3.png>
+Package pdftex.def Info: ./svt/kruczek3.png  used on input line 86. on input li
+ne 86.
+Package pdftex.def Info: Requested size: 334.60422pt x 88.36299pt on input line
+ 86.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -894,12 +949,25 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[2] [3 <./przyspieszenia.png>] [4] (./fizyka.aux) ) 
+[2 <./svt/zad3.png> <./svt/zad4.png> <./svt/zad5.png> <./svt/zad6.png> <./svt/k
+ruczek1.png> <./svt/kruczek2.png>] [3 <./svt/kruczek3.png>]
+<przyspieszenia.png, id=26, 590.95781pt x 357.58594pt>
+File: przyspieszenia.png Graphic file (type png)
+<use przyspieszenia.png>
+Package pdftex.def Info: przyspieszenia.png  used on input line 156. on input l
+ine 156.
+Package pdftex.def Info: Requested size: 418.25368pt x 253.09116pt on input lin
+e 156.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[4] [5 <./przyspieszenia.png>] [6] (./fizyka.aux) ) 
 Here is how much of TeX's memory you used:
- 5924 strings out of 492990
- 85980 string characters out of 6136334
+ 5971 strings out of 492990
+ 86803 string characters out of 6136334
  158789 words of memory out of 5000000
- 9321 multiletter control sequences out of 15000+600000
+ 9358 multiletter control sequences out of 15000+600000
  15418 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  44i,11n,43p,503b,345s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -915,10 +983,10 @@ lr6.pfb><d:/texlive/2017/texmf-dist/fonts/type1/public/pl/plr8.pfb><d:/texlive/
 2017/texmf-dist/fonts/type1/public/pl/plsl10.pfb><d:/texlive/2017/texmf-dist/fo
 nts/type1/public/pl/plss12.pfb><d:/texlive/2017/texmf-dist/fonts/type1/public/p
 l/plsy10.pfb><d:/texlive/2017/texmf-dist/fonts/type1/public/pl/plsy8.pfb>
-Output written on fizyka.pdf (4 pages, 86462 bytes).
+Output written on fizyka.pdf (6 pages, 294916 bytes).
 PDF statistics:
- 69 PDF objects out of 1000 (max. 8388607)
- 49 compressed objects within 1 object stream
+ 84 PDF objects out of 1000 (max. 8388607)
+ 53 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
