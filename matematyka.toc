@@ -1,5 +1,5 @@
-\contentsline {section}{\numberline {1}Zadania}{1}{section.1}
-\contentsline {subsection}{\numberline {1.1}Zabawy z liczbami}{1}{subsection.1.1}
+\contentsline {section}{\numberline {1}Zadania}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}Zabawy z liczbami}{2}{subsection.1.1}
 \contentsline {subsection}{\numberline {1.2}Podzielno\IeC {\'s}\IeC {\'c} liczb}{4}{subsection.1.2}
 \contentsline {section}{\numberline {2}Podstawowe twierdzenie arytmetyki}{5}{section.2}
 \contentsline {section}{\numberline {3}Powr\IeC {\'o}t do zada\IeC {\'n}}{7}{section.3}
@@ -17,3 +17,4 @@
 \contentsline {subsection}{\numberline {6.2}Zadania}{21}{subsection.6.2}
 \contentsline {section}{\numberline {7}Egzamin pr\IeC {\'o}bny}{23}{section.7}
 \contentsline {section}{\numberline {8}Geometria}{31}{section.8}
+\contentsline {section}{\numberline {9}Algebra}{33}{section.9}
