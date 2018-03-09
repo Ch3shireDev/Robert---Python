@@ -1,8 +1,0 @@
-\contentsline {section}{\numberline {1}Kinematyka}{1}
-\contentsline {subsection}{\numberline {1.1}Pr\IeC {\k e}dko\IeC {\'s}\IeC {\'c}, droga, czas}{1}
-\contentsline {section}{\numberline {2}Dynamika}{3}
-\contentsline {subsection}{\numberline {2.1}Zasady dynamiki Newtona}{3}
-\contentsline {subsection}{\numberline {2.2}Rodzaje oddzia\IeC {\l }ywa\IeC {\'n}}{3}
-\contentsline {subsection}{\numberline {2.3}...inne oddzia\IeC {\l }ywania?}{3}
-\contentsline {section}{\numberline {3}Zadania z fizyki}{4}
-\contentsline {subsection}{\numberline {3.1}Energia}{5}
